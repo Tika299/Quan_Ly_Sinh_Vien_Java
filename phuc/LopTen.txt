@@ -1,0 +1,10 @@
+L001,11A1,Nguyễn Văn Công,50
+L002,12B3,Trần Thị Tôi,45
+L003,15C6,Hoàng Văn Giang,55
+L004,12D3,Phạm Thị Thái,60
+L005,15E3,Vũ Văn Nưng,40
+L006,12F5,Nguyễn Thị Văn,48
+L007,23G5,Trần Văn Ương,52
+L008,21H5,Hoàng Thị Quân,58
+L009,76I6,Trần Văn Phòng,42
+L010,53K5,Lê Thị Rong,47

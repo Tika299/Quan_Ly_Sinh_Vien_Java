@@ -1,0 +1,6 @@
+Lop01,TT10,Nguyễn Văn An,50
+Lop02,TT11,Phạm Tấn Dũng,50
+Lop03,TT12,Hà Thanh Nhân,50
+Lop04,TT13,Nguyễn Thị Thu,50
+Lop05,TT14,Châu Minh Phúc,50
+Lop06,Tt6,nguyen van a,30

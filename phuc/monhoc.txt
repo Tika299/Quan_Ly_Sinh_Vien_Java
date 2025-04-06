@@ -1,0 +1,16 @@
+MH001,Lập trình Java,4,CNTT
+MH002,Cấu trúc dữ liệu và giải thuật,3,CNTT
+MH003,Toán cao cấp,3,Toán
+MH004,Vật lý đại cương,3,Vật lý
+MH005,Tiếng Anh 1,2,Ngoại ngữ
+MH006,Triết học,3,Đạo đức
+MH007,Marketing căn bản,3,Marketing
+MH008,Quản trị kinh doanh,4,Quản trị kinh doanh
+MH009,Lịch sử Việt Nam,3,Lịch sử
+MH010,Kỹ thuật lập trình,4,CNTT
+MH01,Java,3,TT10
+MH001,Toán,4,TT10
+MH08,Toán,4,TT10
+MH0019,Java,4,TT11
+MH011,java,4,TT10
+tt,r3,43,TT10
